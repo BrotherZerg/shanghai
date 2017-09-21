@@ -47,10 +47,7 @@
 		</section>	
 			<?php include "myinclude.inc" ?>			
 	
+		<?php include "footer.inc" ?>			
 
-		<footer>		
-				Copyright &copy; 2017	
-				- This webpage is created by Team Shanghai
-		</footer>
 	</body>
 </html>
