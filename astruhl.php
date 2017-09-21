@@ -35,23 +35,15 @@
 
 		<h2>Education</h2>
 
-			<p>I am currently a senior at the University of Rochester, Class of 2018. I am majoring in <strong>Digitial Media Studies</strong> and <em>Creative writing</em>. I love to design everything like objects, graphics, or website. I am transfer student after graduating past college as knowns as Monroe Community College with Mathematics degree. But I have changed my major to DMS because I think designing is approriately best suit for me. This is a reason why I am taking CSC 174 course. I had planed to earn Bachelor degree in University of Rochester and Master degree in Rochester Institute of Technology.</p>
+			<p>I am currently a senior at the University of Rochester, Class of 2018. I am majoring in <em>Digitial Media Studies</em> and <em>Creative writing</em>. I enjoy creating things that look cool to me, which is esentially things that look good to my design aesthetic.  I'm a pretty big fan of Sci-Fi, whether it be ultra-modern or cyberpunk, and I think that the former influences my personal aesthetics more than a little.</p>
 
 		<h2>Work Experiences</h2>
 
-			<p>I have been working as Technical Assisstant in Interfaith Chapel at University of Rochester. Moreover, I had a good job as tutor and student help desk in Monroe Community College for 2 years.m</p>
+			<p>I have spent some time as an intern at the web company WebnBeyond, as well as few contract jobs for Magic Masters signs that required a lot of graphics design work and organization.</p>
 
 		<h3>Clubs and Organization</h3>
 
-			<p>I was an 2017 Orientation Volunteer for class of 2021. I'm joining these clubs: </p>
-			<ul style="list-style-type: square;">
-				<li>Circle K International</li>
-				<li>Modern Languages and Cultures Undergraduate Council</li>
-				<li>Society of Hispanic Professional Engineers</li>
-				<li>Student's Association of Interfaith Cooperation</li>
-				<li>Undergraduate Film Council</li>
-				<li>UR eSports</li>
-			</ul>
+			<p>I am a long-standing member fo the Anime Interest Floor.  I spent my sophmore year working as their PR manager before becoming the President of the organization in my Junior year.  I am currently serving a second term as president, and am working towards improving the group by increasing the number of cool and unique events that we do.</p>
 		</section>	
 			<?php include "myinclude.inc" ?>			
 	
@@ -62,4 +54,3 @@
 		</footer>
 	</body>
 </html>
-
