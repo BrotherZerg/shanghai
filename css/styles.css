@@ -1,0 +1,305 @@
+body{
+	background-color: gray;
+	color: lightblue;
+	font-family: Arial, Helvetica, sans-serif;
+	word-break: keep-all;
+}	
+
+h1{	
+	border-bottom-style: dashed;
+	border-bottom-width: 1px;
+	border-bottom-color: white;
+}
+
+h1 a{
+  margin-left: 10px;
+  letter-spacing: 5px;
+}
+
+h2{
+	color: yellow;
+	font-style: italic;
+	font-weight: normal;
+	margin-top: 50px;
+	background-color: rgba(19, 20, 21, 0.1);
+	border-left-style: solid; 
+	border-left-width: 5px;
+	border-left-color: rgba(58, 129, 150, 0.86);
+	text-align: center;
+  font-size: 180%;
+}
+
+h1, h2{
+  font-family: 'Titillium Web', sans-serif;
+  clear: both;
+}
+
+h3{
+	color: lightblue;
+	text-align: center;
+}
+
+figure{
+	float: left;
+	text-align: center;	
+}
+
+header p{
+  padding-bottom: 10px;
+  padding-top: 7px;
+}
+
+article p{
+  padding-top: 15px;
+}
+
+li{
+	letter-spacing: 1px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+header.page-header {
+  position: fixed;
+  top: 0;
+  left:0; 
+  margin:0;
+  background-color:rgb(199,75,29); 
+  width: 100%;
+  z-index: 1;
+}
+
+header.page-header h1 {
+  color: white;
+  padding-left: 15px; 
+  font-size: 150%;
+  text-transform: uppercase;
+  position: relative; 
+  padding-bottom: 10px;
+}
+
+header.page-header p{
+	text-transform: lowercase;
+	top:40px;
+	left:90px;
+	color: white;
+	font-family: Courier, monospace;
+  	display: inline-block;	
+  	letter-spacing: 1.5px;
+  	font-size: 100%;
+  	position: absolute;
+}
+
+header.page-header img {
+  vertical-align: top;
+  display: inline-block;
+ 	padding-bottom: 5px;
+}
+
+header.page-header a{
+	color: white;
+}
+
+header.page-header a:hover img{
+	opacity: 0.7;
+}
+
+nav{
+	position: absolute;
+	top:35px;
+	right: 0;	
+}
+
+nav ul{
+  margin:0; 
+  text-align: center;
+  overflow: hidden;
+  width: 100%;
+  float: right;
+  letter-spacing: 1px;
+}
+
+nav li{
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+nav li a.active {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 105%;
+  color: rgb(236, 249, 183);
+}
+
+.read a{
+	color: DarkGoldenrod;
+}
+
+.read a:hover{
+	color: rgb(199,75,29);
+}
+
+.logo{
+  display: inline-block;
+  position: fixed;
+}
+
+section header p{
+  color: white;
+}
+
+section header h3 {
+  margin-top: 150px;
+}
+
+.footer{
+  margin-top: 120px;
+  margin-left: 420px;
+  font-size: 15px;
+  color: white;
+}
+
+section h4 {
+  margin-top: 120px;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: white;
+  font-size: 20px;
+}
+
+@media (max-width: 720px){
+  article{
+    display: inline;
+  }
+  header p{
+    display: inline-block;
+    font-size: 97%;
+    position: fixed;
+    top: 28px;
+    left: 20px;
+    font-size: 10px;
+    padding: 20px;
+    margin-left: 35px;
+  }
+
+  .page-header h1 img{
+    width: 50px;
+    height: 50px;
+  }
+
+  h1 a {
+    font-size: 10px;
+    padding: 5px;
+    display: inline-block;
+  }
+
+  nav li {
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 10px;
+  }
+  
+  .footer{
+  margin-top: 120px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px; 
+  font-size: 12px;
+  color: white;
+  }
+}
+
+@media (max-width: 540px){
+  article{
+    display: inline;
+  }
+
+  header.page-header p{
+    display: none;
+  }
+
+  .page-header h1 img{
+    width: 30px;
+    height: 30px;
+  }
+
+  h1 a {
+    font-size: 15px;
+    letter-spacing: 5px;
+    padding-top: 7px;
+    margin-left: 10px;
+    display: inline-block;
+  }
+
+  nav li {
+    display: inline-block;
+    font-size: 15px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 20px;
+  }
+
+  .footer{
+  margin-top: 120px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px; 
+  font-size: 10px;
+  color: white;
+  }
+
+  h2{
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 390px){
+  article{
+    display: inline;
+  }
+
+  header.page-header p{
+    display: none;
+  }
+
+  .page-header h1 img{
+    width: 20px;
+    height: 20px;
+  }
+
+  h1 a {
+    font-size: 15px;
+    letter-spacing: 5px;
+    padding-top: 5px;
+    margin-left: 10px;
+    display: inline-block;
+  }
+
+  nav li {
+    display: inline-block;
+    font-size: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+  }
+
+  .footer{
+  margin-top: 120px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px; 
+  font-size: 10px;
+  color: white;
+  }
+
+  h2{
+    font-size: 20px;
+  }
+  
+}
