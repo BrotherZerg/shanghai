@@ -24,6 +24,7 @@
 					<li><a href="index.php">Home</a></li>
 					<li><a href="phoinguyen.php">Phoi Nguyen</a></li>
 					<li><a class="active" href="lunguyen.php">Lu Nguyen</a></li>
+					<li><a href="astruhl.php">Adam Struhl</a></li>
 				</ul>
 			</nav>					
 		</header>
