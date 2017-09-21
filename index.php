@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Team 7, CSC 174 Assignment 4</title>
+		<title>Team Shanghai, CSC 174 Assignment 4</title>
 		<link rel="stylesheet" type="text/css" href="css/styles.css">						
 	</head>
 
@@ -13,7 +13,7 @@
 			<h1>
 				<a href="index.php">
 					<img src="images/logo.jpg" alt="Logo"></a>
-						<a class="logo" href="index.php"><strong> Web Developers</strong></a>
+				<a class="logo" href="index.php"><strong> Web Developers</strong></a>
 			</h1>
 				<p>CSC 174 - Advanced Front-End Web Development</p>
 						
