@@ -65,7 +65,7 @@
 			<article>
 				<h2><em>Adam Struhl - Code Monkey</em></h2>
 				<figure>
-				<img class="image" src="images/boy2.png" alt="boy">
+				<img class="image" src="images/man.png" alt="man">
 					<figcaption>Code Monkey</figcaption>
 				</figure>
 
