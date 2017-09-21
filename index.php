@@ -68,7 +68,7 @@
 					<figcaption>Code Monkey</figcaption>
 				</figure>
 
-				<p>Lu Nguyen is currently a senior at the University of Rochester, Class of 2018.</p>
+				<p>Adam Struhl is currently a senior at the University of Rochester, Class of 2018.</p>
 
 				<div class="read"><a href="adam.php"> Read more... </a></div>	
 			</article>
