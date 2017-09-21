@@ -1,32 +1,65 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
+
 	<head>
 		<meta charset="utf-8">
-		<title>Adam Struhl</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Team 7, CSC 174 Assignment 4</title>
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
+	
+								
 	</head>
-	
-	<body>
-	
-	<h1>Adam Struhl</h1>
-	
-	<h2>About</h2>
 
+	<body>		
+		<header class="page-header">
+			<h1>
+				<a href="index.php">
+					<img src="images/logo.jpg" alt="Logo"></a>
+						<a class="logo" href="index.php"><strong> Web Developers</strong></a>
+			</h1>	
+				<p>CSC 174 - Advanced Front-End Web Development</p>
+						
+			<nav>
+				<ul>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="phoinguyen.php">Phoi Nguyen</a></li>
+					<li><a href="lunguyen.php">Lu Nguyen</a></li>
+					<li><a class="active" href="astruhl.php">Adam Struhl</a></li>
 
-	<?php include "inc/footer.inc"; ?>
+				</ul>
+			</nav>					
+		</header>
 
+		<section>
+		<h4>Adam Struhl</h4>
+
+		<h2>Education</h2>
+
+			<p>I am currently a senior at the University of Rochester, Class of 2018. I am majoring in <strong>Digitial Media Studies</strong> and <em>Creative writing</em>. I love to design everything like objects, graphics, or website. I am transfer student after graduating past college as knowns as Monroe Community College with Mathematics degree. But I have changed my major to DMS because I think designing is approriately best suit for me. This is a reason why I am taking CSC 174 course. I had planed to earn Bachelor degree in University of Rochester and Master degree in Rochester Institute of Technology.</p>
+
+		<h2>Work Experiences</h2>
+
+			<p>I have been working as Technical Assisstant in Interfaith Chapel at University of Rochester. Moreover, I had a good job as tutor and student help desk in Monroe Community College for 2 years.m</p>
+
+		<h3>Clubs and Organization</h3>
+
+			<p>I was an 2017 Orientation Volunteer for class of 2021. I'm joining these clubs: </p>
+			<ul style="list-style-type: square;">
+				<li>Circle K International</li>
+				<li>Modern Languages and Cultures Undergraduate Council</li>
+				<li>Society of Hispanic Professional Engineers</li>
+				<li>Student's Association of Interfaith Cooperation</li>
+				<li>Undergraduate Film Council</li>
+				<li>UR eSports</li>
+			</ul>
+		</section>	
+			<?php include "myinclude.inc" ?>			
 	
-	<p>
-		Finding himself in a position to be the writer of his own autobiography, Adam decided to do the responsible thing with this assignment and not exaggerate his achievements.  Like how he's totally the 5 time Worlds Best Ultra Extreme Mega Hoverbike Champion or some other stupid thing.  
-	</p>
-	<p>
-		But if you really want to know about me as a person, then you're probably going to want to hear about how I'm a creative type dedicated to pursuing new and innovative ways to save the future, improve technology in great strides, and some other third DMS related pipe dream.  Which is what everyone says that they are going to do.  But while it is true that I am a bit of a creative person, my real passion is for story telling.  I'm a dual Major, pursuing Creative writing and DMS, and while I do enjoy doing front end work and intend to find employment doing it, my dream is to be able to create worlds and characters that stir the imagination of their readers.  I know that it's a hard dream, considering that state of the literary world in this digital age, but I do believe that there is a place in the world for good stories.
-	</p>
 
-	<h2>Actual Personal Skills Stuff</h2>
-	
-	<p>
-		In terms of actual computer skills I am pretty good with the usual DMS repertoire of HTML, CSS, PHP, and Java code.  I am also a pretty proficient Photoshop and Illustrator user, since I can hack togetehr anything I'd really need for the visual aspects of a website all on my own.  I am a bit weaker with Java though, so it does take me a bit longer to code things in it.
-	</p>
-
+		<footer>		
+				Copyright &copy; 2017	
+				- This webpage is created by Team 7
+		</footer>
 	</body>
-	</html>
+</html>
+
