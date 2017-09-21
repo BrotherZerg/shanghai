@@ -31,11 +31,6 @@
 
 			<header>
 				<h3> Team 7 </h3>
-				<p>
-					Phoi Nguyen - Design Artist <br>  
-					Lu Nguyen -  Information Architect / Code Monkey 
-				</p>
-				
 			</header>
 
 			<article>
