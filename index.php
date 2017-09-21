@@ -70,7 +70,7 @@
 
 				<p>Adam Struhl is currently a senior at the University of Rochester, Class of 2018.</p>
 
-				<div class="read"><a href="adam.php"> Read more... </a></div>	
+				<div class="read"><a href="astruhl.php"> Read more... </a></div>	
 			</article>
 
 		
