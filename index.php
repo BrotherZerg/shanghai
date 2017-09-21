@@ -30,7 +30,7 @@
 		<section>
 
 			<header>
-				<h3> Team 7 </h3>
+				<h3> Team Shanghai </h3>
 			</header>
 
 			<article>
